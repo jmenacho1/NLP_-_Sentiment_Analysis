@@ -2,8 +2,8 @@
 
 <p>Utilizing NLP and Machine Learning to extract targeted News Story subject matter and Headlines and 2) Perform Sentiment Analysis. 
 
+<p>(The entire Code block is higher up on this GitHub web page "Code_NLP..." or [https://github.com/jmenacho1/NLP_and_Sentiment_Analysis/blob/main/Code_NLP_Sentiment_Analysis.ipynb].)
 
-<p>(The entire Code block is higher up on this GitHub web page "Code_Scraping..." or [https://github.com/jmenacho1/Scraping_Reddit_Subreddits_Posts/blob/main/Code_Scraping_Reddit_subReddits.ipynb].)
 
 
 ## _Import Libraries & Data Packages_
@@ -15,7 +15,7 @@
 ## Assessing the Impact of 10% Rallies in Crude on the Retail Sector
 
 <p>This exercise seeks to use Data Science for Tactical Trading purposes in hopes of discovering the best points of entry for trades.
-<p>(The entire Code block is higher up on this GitHub web page "Code_Crude..." or [https://github.com/jmenacho1/Crude_Vs._Retail/blob/main/Code_Crude_XLP_XLY.ipynb].)
+
 
 
 ## _Questions asked_ 
