@@ -8,7 +8,7 @@
 ## _Import Libraries & Data Packages_
 ![firstimage](/Images/nlp_machine_1.jpg)
 
-## _Search for Storm-Related Gulf Coast Refinery Outage Headlines using NewsApi aggregator_
+## _Search for Storm-Related Gulf Coast Refinery Outage Headlines using NewsApi aggregator and Output results_
 
 ![firstimage](/Images/nlp_machine_2.jpg)
 
