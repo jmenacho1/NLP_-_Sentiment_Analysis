@@ -1,7 +1,14 @@
-## Utilizing Natural Language Processing (NLP) and Machine Learning to extract 
+## Utilizing Natural Language Processing (NLP) and Machine Learning to filter News Stories
 
-perform Sentiment Analysis on targeted News story subject matter and headlines
-Utilizing NLP &amp; Sentiment Analysis to screen specific subject matter via NEWSAPI
+<p>Utilizing NLP and Machine Learning to extract targeted News Story subject matter and Headlines and 2) Perform Sentiment Analysis. 
+
+
+<p>(The entire Code block is higher up on this GitHub web page "Code_Scraping..." or [https://github.com/jmenacho1/Scraping_Reddit_Subreddits_Posts/blob/main/Code_Scraping_Reddit_subReddits.ipynb].)
+
+
+## _Import Libraries & Data Packages_
+
+
 
 
 
